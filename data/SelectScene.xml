@@ -1,0 +1,144 @@
+<ui>
+<width>400</width>
+<height>300</height>
+<element>
+  <id>0</id>
+  <kind>label</kind>
+  <name>StageSelect</name>
+  <text>ステージ選択</text>
+  <x>0</x><y>0</y>
+  <w>400</w><h>60</h>
+  <size>30</size>
+</element><element>
+  <id>1</id>
+  <kind>button</kind>
+  <name>back</name>
+  <text>戻る</text>
+  <x>328</x><y>264</y>
+  <w>60</w><h>24</h>
+  <size>13</size>
+</element><element>
+  <id>2</id>
+  <kind>button</kind>
+  <name>random</name>
+  <text>ランダム</text>
+  <x>328</x><y>232</y>
+  <w>60</w><h>24</h>
+  <size>13</size>
+</element><element>
+  <id>3</id>
+  <kind>button</kind>
+  <name>stage01</name>
+  <text>stage01</text>
+  <x>10</x><y>70</y>
+  <w>60</w><h>60</h>
+  <size>15</size>
+</element><element>
+  <id>4</id>
+  <kind>button</kind>
+  <name>stage02</name>
+  <text>stage02</text>
+  <x>90</x><y>70</y>
+  <w>60</w><h>60</h>
+  <size>15</size>
+</element><element>
+  <id>5</id>
+  <kind>button</kind>
+  <name>stage03</name>
+  <text>stage03</text>
+  <x>170</x><y>70</y>
+  <w>60</w><h>60</h>
+  <size>15</size>
+  </element>
+  <!--
+  <element>
+  <id>6</id>
+  <kind>button</kind>
+  <name>stage04</name>
+  <text>stage04</text>
+  <x>250</x><y>70</y>
+  <w>60</w><h>60</h>
+  <size>15</size>
+</element><element>
+  <id>7</id>
+  <kind>button</kind>
+  <name>stage05</name>
+  <text>stage05</text>
+  <x>330</x><y>70</y>
+  <w>60</w><h>60</h>
+  <size>15</size>
+  </element><element>
+  <id>8</id>
+  <kind>button</kind>
+  <name>stage06</name>
+  <text>stage06</text>
+  <x>10</x><y>150</y>
+  <w>60</w><h>60</h>
+  <size>15</size>
+</element><element>
+  <id>9</id>
+  <kind>button</kind>
+  <name>stage07</name>
+  <text>stage07</text>
+  <x>90</x><y>150</y>
+  <w>60</w><h>60</h>
+  <size>15</size>
+</element><element>
+  <id>10</id>
+  <kind>button</kind>
+  <name>stage08</name>
+  <text>stage08</text>
+  <x>170</x><y>150</y>
+  <w>60</w><h>60</h>
+  <size>15</size>
+</element><element>
+  <id>11</id>
+  <kind>button</kind>
+  <name>stage09</name>
+  <text>stage09</text>
+  <x>250</x><y>150</y>
+  <w>60</w><h>60</h>
+  <size>15</size>
+</element><element>
+  <id>12</id>
+  <kind>button</kind>
+  <name>stage10</name>
+  <text>stage10</text>
+  <x>330</x><y>150</y>
+  <w>60</w><h>60</h>
+  <size>15</size>
+</element><element>
+  <id>13</id>
+  <kind>button</kind>
+  <name>stage11</name>
+  <text>stage11</text>
+  <x>10</x><y>230</y>
+  <w>60</w><h>60</h>
+  <size>15</size>
+</element><element>
+  <id>14</id>
+  <kind>button</kind>
+  <name>stage12</name>
+  <text>stage12</text>
+  <x>90</x><y>230</y>
+  <w>60</w><h>60</h>
+  <size>15</size>
+</element><element>
+  <id>15</id>
+  <kind>button</kind>
+  <name>stage13</name>
+  <text>stage13</text>
+  <x>170</x><y>230</y>
+  <w>60</w><h>60</h>
+  <size>15</size>
+</element><element>
+  <id>16</id>
+  <kind>button</kind>
+  <name>stage14</name>
+  <text>stage14</text>
+  <x>250</x><y>230</y>
+  <w>60</w><h>60</h>
+  <size>15</size>
+</element>
+-->
+</ui>

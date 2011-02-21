@@ -1,0 +1,61 @@
+<ui>
+<width>400</width>
+<height>300</height>
+<element>
+  <id>0</id>
+  <kind>rect</kind>
+  <name>MAP</name>
+  <text>MAP</text>
+  <x>8</x><y>8</y>
+  <w>288</w><h>288</h>
+  <size>12</size>
+</element><element>
+  <id>1</id>
+  <kind>button</kind>
+  <name>giveup</name>
+  <text>ギブアップ</text>
+  <x>312</x><y>272</y>
+  <w>72</w><h>22</h>
+  <size>10</size>
+</element><element>
+  <id>2</id>
+  <kind>label</kind>
+  <name>score</name>
+  <text>得点</text>
+  <x>312</x><y>56</y>
+  <w>72</w><h>24</h>
+  <size>15</size>
+</element><element>
+  <id>3</id>
+  <kind>label</kind>
+  <name>stage</name>
+  <text>stage</text>
+  <x>296</x><y>8</y>
+  <w>104</w><h>32</h>
+  <size>22</size>
+</element><element>
+  <id>4</id>
+  <kind>label</kind>
+  <name>walkText</name>
+  <text>00000</text>
+  <x>312</x><y>144</y>
+  <w>72</w><h>24</h>
+  <size>15</size>
+</element><element>
+  <id>5</id>
+  <kind>label</kind>
+  <name>walk</name>
+  <text>歩数</text>
+  <x>312</x><y>120</y>
+  <w>72</w><h>24</h>
+  <size>15</size>
+</element><element>
+  <id>6</id>
+  <kind>label</kind>
+  <name>scoreText</name>
+  <text>00000</text>
+  <x>312</x><y>80</y>
+  <w>72</w><h>24</h>
+  <size>15</size>
+</element>
+</ui>

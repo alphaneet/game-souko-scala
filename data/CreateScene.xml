@@ -1,0 +1,109 @@
+<ui>
+<width>400</width>
+<height>300</height>
+<element>
+  <id>0</id>
+  <kind>rect</kind>
+  <name>MAP</name>
+  <text>MAP</text>
+  <x>120</x><y>8</y>
+  <w>270</w><h>270</h>
+  <size>12</size>
+</element><element>
+  <id>1</id>
+  <kind>button</kind>
+  <name>space</name>
+  <text>空白</text>
+  <x>8</x><y>40</y>
+  <w>40</w><h>32</h>
+  <size>12</size>
+</element><element>
+  <id>2</id>
+  <kind>button</kind>
+  <name>goal</name>
+  <text>ゴール</text>
+  <x>56</x><y>80</y>
+  <w>40</w><h>32</h>
+  <size>10</size>
+</element><element>
+  <id>3</id>
+  <kind>button</kind>
+  <name>goalBox</name>
+  <text>ゴ箱</text>
+  <x>8</x><y>120</y>
+  <w>40</w><h>32</h>
+  <size>10</size>
+</element><element>
+  <id>4</id>
+  <kind>button</kind>
+  <name>wall</name>
+  <text>壁</text>
+  <x>56</x><y>40</y>
+  <w>40</w><h>32</h>
+  <size>12</size>
+</element><element>
+  <id>5</id>
+  <kind>button</kind>
+  <name>save</name>
+  <text>保存</text>
+  <x>16</x><y>195</y>
+  <w>72</w><h>22</h>
+  <size>12</size>
+</element><element>
+  <id>6</id>
+  <kind>button</kind>
+  <name>back</name>
+  <text>戻る</text>
+  <x>16</x><y>259</y>
+  <w>72</w><h>22</h>
+  <size>12</size>
+</element><element>
+  <id>7</id>
+  <kind>label</kind>
+  <name>stage</name>
+  <text>stage</text>
+  <x>0</x><y>8</y>
+  <w>104</w><h>24</h>
+  <size>18</size>
+</element><element>
+  <id>8</id>
+  <kind>button</kind>
+  <name>play</name>
+  <text>プレイしてみる</text>
+  <x>8</x><y>163</y>
+  <w>88</w><h>22</h>
+  <size>10</size>
+</element><element>
+  <id>9</id>
+  <kind>label</kind>
+  <name>message</name>
+  <text></text>
+  <x>0</x><y>280</y>
+  <w>400</w><h>20</h>
+  <size>12</size>
+</element><element>
+  <id>10</id>
+  <kind>button</kind>
+  <name>clear</name>
+  <text>クリア</text>
+  <x>16</x><y>227</y>
+  <w>72</w><h>22</h>
+  <size>12</size>
+</element><element>
+  <id>11</id>
+  <kind>button</kind>
+  <name>box</name>
+  <text>箱</text>
+  <x>8</x><y>80</y>
+  <w>40</w><h>32</h>
+  <size>12</size>
+</element><element>
+  <id>12</id>
+  <kind>button</kind>
+  <name>player</name>
+  <text>自位置</text>
+  <x>56</x><y>120</y>
+  <w>40</w><h>32</h>
+  <size>10</size>
+</element>
+</ui>

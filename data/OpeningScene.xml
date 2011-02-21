@@ -1,0 +1,37 @@
+<ui>
+<width>400</width>
+<height>300</height>
+<element>
+  <id>0</id>
+  <kind>button</kind>
+  <name>Game</name>
+  <text>スタート</text>
+  <x>288</x><y>176</y>
+  <w>100</w><h>30</h>
+  <size>18</size>
+</element><element>
+  <id>1</id>
+  <kind>button</kind>
+  <name>Create</name>
+  <text>マップ作成</text>
+  <x>288</x><y>208</y>
+  <w>100</w><h>30</h>
+  <size>18</size>
+</element><element>
+  <id>2</id>
+  <kind>label</kind>
+  <name>souko</name>
+  <text>そうこばん</text>
+  <x>3</x><y>30</y>
+  <w>400</w><h>60</h>
+  <size>60</size>
+</element><element>
+  <id>3</id>
+  <kind>button</kind>
+  <name>Exit</name>
+  <text>終了</text>
+  <x>288</x><y>240</y>
+  <w>100</w><h>30</h>
+  <size>18</size>
+</element>
+</ui>

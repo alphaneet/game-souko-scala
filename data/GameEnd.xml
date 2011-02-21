@@ -1,0 +1,53 @@
+<ui>
+<width>400</width>
+<height>300</height>
+<element>
+  <id>0</id>
+  <kind>label</kind>
+  <name>result</name>
+  <text>Game Over</text>
+  <x>8</x><y>56</y>
+  <w>288</w><h>64</h>
+  <size>40</size>
+</element><element>
+  <id>1</id>
+  <kind>button</kind>
+  <name>retry</name>
+  <text>もう一度</text>
+  <x>32</x><y>216</y>
+  <w>100</w><h>24</h>
+  <size>15</size>
+</element><element>
+  <id>2</id>
+  <kind>button</kind>
+  <name>back</name>
+  <text>戻る</text>
+  <x>168</x><y>216</y>
+  <w>100</w><h>24</h>
+  <size>15</size>
+</element><element>
+  <id>3</id>
+  <kind>label</kind>
+  <name>score2</name>
+  <text>得点 =</text>
+  <x>40</x><y>144</y>
+  <w>128</w><h>32</h>
+  <size>20</size>
+</element><element>
+  <id>4</id>
+  <kind>label</kind>
+  <name>scoreText2</name>
+  <text>0000000</text>
+  <x>144</x><y>144</y>
+  <w>99</w><h>32</h>
+  <size>20</size>
+</element><element>
+  <id>5</id>
+  <kind>rect</kind>
+  <name>RESULT</name>
+  <text></text>
+  <x>8</x><y>48</y>
+  <w>288</w><h>216</h>
+  <size>10</size>
+</element>
+</ui>

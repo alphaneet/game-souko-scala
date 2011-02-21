@@ -13,7 +13,7 @@ processing 1.2.1
 ・windowsユーザー
 processingライブラリのcore.jarをクラスパスに追加しないといけません。make.bat内の
 
-set PCORE=C:\lib\jar\core.jar
+set PCORE=C:\bin\processing\lib\core.jar
 
 ここをprocessingフォルダ内のlib\core.jarの場所に書き換えてください。
 その後make.batをダブルクリックすればおそらく動くはずです。

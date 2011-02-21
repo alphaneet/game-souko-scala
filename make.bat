@@ -1,6 +1,5 @@
 @echo off
 
-:: processingフォルダ内の lib\core.jar にパスを通してください
 set PCORE=C:\bin\processing\lib\core.jar
 
 if not exist bin mkdir bin

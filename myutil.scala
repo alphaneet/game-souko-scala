@@ -116,7 +116,6 @@ def invoke(args:Any*):AnyRef = {
 object Applet extends processing.core.PApplet { 
 //{{{
 
-var _DEBUG_ = true
 var mousePushed = false
 
 private var _setup = () => {}

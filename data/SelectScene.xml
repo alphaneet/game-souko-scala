@@ -107,7 +107,9 @@
   <x>330</x><y>150</y>
   <w>60</w><h>60</h>
   <size>15</size>
-</element><element>
+  </element>
+  -->
+  <element>
   <id>13</id>
   <kind>button</kind>
   <name>stage11</name>
@@ -140,5 +142,4 @@
   <w>60</w><h>60</h>
   <size>15</size>
 </element>
--->
 </ui>

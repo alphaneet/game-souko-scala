@@ -13,7 +13,6 @@ private var _initialize = false
 def initialize = _initialize
 
 def setup {
-  if(_DEBUG_) sketchPath = """W:\work\data\game\puzzle\souko""" 
   size(400, 300, P2D)
   frameRate(24)
   frame.setTitle("倉庫番")
